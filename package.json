@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A fixed-size auto-overwriting stack.",
   "main": "dist/index.js",
-  "type": "module",
   "files": [
     "dist/*"
   ],
