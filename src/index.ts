@@ -13,7 +13,7 @@ function decrementIndex(index: number, limit: number) {
  * 
  * @template T - The type of items stored in the CircularStack
  */
-export class CircularStack<T> {
+export default class CircularStack<T = any> {
     /**
      * An array to store the items in the CircularStack.
      */

@@ -5,7 +5,7 @@ module.exports = {
     mode: 'production',
     output: {
         filename: 'circular-stack.min.js',
-        path: path.resolve(__dirname, 'dist'),
+        path: path.resolve(__dirname, 'dist/browser'),
         library: 'CircularStack',
         libraryTarget: 'umd',
         umdNamedDefine: true,
