@@ -1,4 +1,4 @@
-import { CircularStack } from './index.js';
+import CircularStack from './index.js';
 
 describe('CircularStack', () => {
     let stack: CircularStack<number>;
