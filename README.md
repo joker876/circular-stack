@@ -1,5 +1,5 @@
 # circular-stack
-![npm](https://img.shields.io/npm/v/circular-stack?label=version)![NPM](https://img.shields.io/npm/l/circular-stack)![npm bundle size](https://img.shields.io/bundlephobia/min/circular-stack)
+![npm](https://img.shields.io/npm/v/circular-stack?label=version) ![NPM](https://img.shields.io/npm/l/circular-stack) ![npm bundle size](https://img.shields.io/bundlephobia/min/circular-stack)
 
 A fixed-size auto-overwriting stack implementation.
 
